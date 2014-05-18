@@ -5,7 +5,7 @@
       "osfameron"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 1.08, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Module::Install version 1.08, CPAN::Meta::Converter version 2.120351",
    "license" : [
       "perl_5"
    ],

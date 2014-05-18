@@ -1,13 +1,14 @@
 ---
 abstract: "override a class's methods in a scope, checking input/output"
 author:
-  - 'and LICENSE, osfameron'
+  - 'and LICENSE'
+  - osfameron
 build_requires:
   ExtUtils::MakeMaker: '6.36'
 configure_requires:
   ExtUtils::MakeMaker: '0'
 dynamic_config: 0
-generated_by: 'ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.141170'
+generated_by: 'Module::Install version 1.08, CPAN::Meta::Converter version 2.120351'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -15,9 +16,11 @@ meta-spec:
 name: Test-Shadow
 no_index:
   directory:
-    - t
     - inc
+    - t
 requires:
   Test::Deep: '0'
   Test::More: '0'
+resources:
+  license: http://dev.perl.org/licenses/
 version: '0.01'
