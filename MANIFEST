@@ -1,4 +1,5 @@
 bin/refresh-readme
+Changes
 inc/Module/AutoInstall.pm
 inc/Module/Install.pm
 inc/Module/Install/AutoInstall.pm
@@ -19,3 +20,4 @@ MYMETA.yml
 README
 README.pod
 t/basic.t
+t/errors.t

@@ -5,6 +5,8 @@ author:
   - osfameron
 build_requires:
   ExtUtils::MakeMaker: 6.36
+  Test::Fatal: 0
+  Test::Tester: 0
 configure_requires:
   ExtUtils::MakeMaker: 6.36
 distribution_type: module
@@ -24,4 +26,4 @@ requires:
   Test::More: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: '0.0101'
+version: '0.02'
